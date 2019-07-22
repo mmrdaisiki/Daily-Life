@@ -1,0 +1,15 @@
+F:\c#\ch01\WinFormExamples\bin\Debug\WinFormExamples.exe.config
+F:\c#\ch01\WinFormExamples\bin\Debug\WinFormExamples.exe
+F:\c#\ch01\WinFormExamples\bin\Debug\WinFormExamples.pdb
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.csprojAssemblyReference.cache
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.HelloWorldForm.resources
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.MainForm.resources
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.Properties.Resources.resources
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.csproj.GenerateResource.cache
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.csproj.CoreCompileInputs.cache
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.exe
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.pdb
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.TextBoxExample.resources
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.CheckBoxRadioButton.resources
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.ListBoxComboBox.resources
+F:\c#\ch01\WinFormExamples\obj\Debug\WinFormExamples.Forms.ErrorProviderExample.resources

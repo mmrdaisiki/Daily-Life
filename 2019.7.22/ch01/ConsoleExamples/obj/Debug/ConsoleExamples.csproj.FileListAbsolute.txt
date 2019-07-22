@@ -1,0 +1,10 @@
+F:\c#\ch01\ConsoleExamples\bin\Debug\ConsoleExamples.exe.config
+F:\c#\ch01\ConsoleExamples\bin\Debug\ConsoleExamples.exe
+F:\c#\ch01\ConsoleExamples\bin\Debug\ConsoleExamples.pdb
+F:\c#\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.csproj.CoreCompileInputs.cache
+F:\c#\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.exe
+F:\c#\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.pdb
+F:\c#\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.csprojAssemblyReference.cache
+F:\c#\ch01\ConsoleExamples\bin\Debug\ClassLibraryExample.dll
+F:\c#\ch01\ConsoleExamples\bin\Debug\ClassLibraryExample.pdb
+F:\c#\ch01\ConsoleExamples\obj\Debug\ConsoleExamples.csproj.CopyComplete

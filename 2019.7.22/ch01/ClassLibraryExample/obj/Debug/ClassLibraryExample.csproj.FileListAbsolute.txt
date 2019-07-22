@@ -1,0 +1,6 @@
+F:\c#\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.csproj.CoreCompileInputs.cache
+F:\c#\ch01\ClassLibraryExample\bin\Debug\ClassLibraryExample.dll
+F:\c#\ch01\ClassLibraryExample\bin\Debug\ClassLibraryExample.pdb
+F:\c#\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.dll
+F:\c#\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.pdb
+F:\c#\ch01\ClassLibraryExample\obj\Debug\ClassLibraryExample.csprojAssemblyReference.cache
