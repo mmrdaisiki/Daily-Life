@@ -1,0 +1,7 @@
+F:\c#\ch02\ch02\bin\Debug\ch02.exe.config
+F:\c#\ch02\ch02\bin\Debug\ch02.exe
+F:\c#\ch02\ch02\bin\Debug\ch02.pdb
+F:\c#\ch02\ch02\obj\Debug\ConsoleExamples.csprojAssemblyReference.cache
+F:\c#\ch02\ch02\obj\Debug\ConsoleExamples.csproj.CoreCompileInputs.cache
+F:\c#\ch02\ch02\obj\Debug\ch02.exe
+F:\c#\ch02\ch02\obj\Debug\ch02.pdb
